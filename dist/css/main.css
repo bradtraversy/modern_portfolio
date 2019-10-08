@@ -76,7 +76,9 @@
     text-decoration: none;
     transition: all 0.5s ease-out; }
     .menu .nav-link:hover {
-      color: #eece1a; }
+      color: chartreuse;
+        transform: scale(1.25)
+}
 
 .nav-item:nth-child(1) {
   transition-delay: 0.1s; }
