@@ -8,5 +8,5 @@ This is my first portfolio project.
 * main.css in css folder
 * Gruntfile.js
 * img folder
-* dest folder
+* dist folder
 * package.json
