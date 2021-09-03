@@ -7,10 +7,10 @@
   transition: all 0.5s ease-out; }
   .menu-btn .btn-line {
     width: 28px;
-    height: 3px;
+    height: 4px;
     margin: 0 0 5px 0;
     background: #fff;
-    transition: all 0.5s ease-out; }
+    transition: all 0.9s ease-out; }
   .menu-btn.close {
     transform: rotate(180deg); }
     .menu-btn.close .btn-line:nth-child(1) {
@@ -104,7 +104,7 @@ body {
   line-height: 1.5; }
   body#bg-img {
     background: url(../img/background.jpg);
-    background: rgba(68, 68, 68, 0.9), url(../img/background.jpg);
+    background: rgba(70, 68, 68, 0.9), url(../img/background.jpg);
     background-attachment: fixed;
     background-size: cover; } 
 
