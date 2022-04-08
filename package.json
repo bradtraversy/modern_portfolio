@@ -13,5 +13,27 @@
   "dependencies": {
     "gh-pages": "^1.2.0",
     "node-sass": "^4.13.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saviour-Dagadu/modern_portfolio.git"
+  },
+  "keywords": [
+    "Saviour",
+    "Dagadu",
+    "Website",
+    "Developer",
+    "Web",
+    "developer",
+    "web",
+    "application",
+    "developer",
+    "Software",
+    "Engineer",
+    "Software",
+    "Developer"
+  ],
+  "bugs": {
+    "url": "https://github.com/Saviour-Dagadu/modern_portfolio/issues"
   }
 }
